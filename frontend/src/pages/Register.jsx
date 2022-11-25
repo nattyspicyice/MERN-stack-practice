@@ -1,4 +1,3 @@
-import { set } from 'mongoose'
 import {useState, userEffect} from 'react'
 import {FaUser} from 'react-icons/fa'
 
